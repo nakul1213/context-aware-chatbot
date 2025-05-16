@@ -12,7 +12,7 @@ A dynamic, form-filling assistant that understands webpage content in real-time 
 
 ## 📦 Tech Stack
 
-- **Frontend**: React, Vite, Tailwind (optional)
+- **Frontend**: React, Vite
 - **Backend**: FastAPI, FAISS, HuggingFace Transformers, Groq API
 - **Crawling**: Requests / BeautifulSoup (+ optional Selenium)
 - **Browser Extension**: Manifest v3 compatible
